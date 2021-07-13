@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.apache.drill.contrib.function</groupId>
-    <artifactId>jfmario_modulo</artifactId>
+    <artifactId>xyz_split</artifactId>
     <version>1.0</version>
     <name>Drill Function Template</name>
 
