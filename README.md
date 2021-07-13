@@ -15,6 +15,7 @@ This reference repository assumes you know the basics of Apache Drill.
 Each of the following directories is a workspace containing UDF defintions:
 
 * `/trivial_udf/`: This defines "jfmario_trival_udf", a function that takes an INT or BIGINT column and returns an INT column of the number 1.
+* `/modulo_udf/`: This defines "modulo" a function that performs a modulo operation on INT columns.
 
 ### Building a UDF
 
